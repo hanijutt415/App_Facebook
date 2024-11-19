@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App facebook</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="login">Login</string>
+</resources>
